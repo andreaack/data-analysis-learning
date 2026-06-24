@@ -1,19 +1,33 @@
-<img width="895" height="178" alt="image" src="https://github.com/user-attachments/assets/41c81b30-5d07-42be-b56c-6ca531b9c751" />
+<img width="887" height="172" alt="image" src="https://github.com/user-attachments/assets/7ac85abe-119e-42be-9bca-250e53c109bd" />
+</br>
+</br>
+</br>
 
-####  Repository for Learning "DATA"
+###  Data Science Learning Repository 
+<a href="https://github.com/dr34ith/data-analysis-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Created-2026--06--24-blue" alt="Created">
+</a>
+<a href="https://github.com/yourusername/yourrepo/issues" target="_blank">
+  <img src="https://img.shields.io/badge/Status-WIP--Updating-orange" alt="Status">
+</a>
 
+</br>
 
 A personal learning repository for Data Analysis and Data Science using Python and Google Collab. This repo serves as my structured notebook collection from foundations all the way to machine learning and projects.
 
+</br>
 
-**Tools & Technologies:**
-
-- Python 3
-- Google Colab
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- SQL (basics)
+**Tools & Technologies to be explored:** 
+</br>
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basics-4479A1?logo=postgresql&logoColor=white)
 
 
 ###  Repository Structure
@@ -35,7 +49,7 @@ data-analysis-practice/
 
 
 
-#####  Learning Path
+###  Learning Path (My Current Guide)
 
 ### Phase 1  Foundations
 
@@ -144,9 +158,12 @@ drive.mount('/content/drive')
 4. Run cells top to bottom and follow along with the notes
 
 
+---
+<div align="center">
+<a href="https://github.com/dr34ith/data-analysis-learning/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</a>
+<br>
+<sub>© 2026 dr34ith</sub>
 
------
-
-[Repository Created : 24-06-26
-Status : Incomplete/Updating..](https://img.shields.io/badge/Created-2024--06--26-blue
-https://img.shields.io/badge/Status-WIP--Updating-orange)
+</div>
