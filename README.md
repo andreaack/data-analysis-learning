@@ -1,4 +1,7 @@
-#  Repository for Learning "DATA"
+<img width="895" height="178" alt="image" src="https://github.com/user-attachments/assets/41c81b30-5d07-42be-b56c-6ca531b9c751" />
+
+####  Repository for Learning "DATA"
+
 
 A personal learning repository for Data Analysis and Data Science using Python and Google Collab. This repo serves as my structured notebook collection from foundations all the way to machine learning and projects.
 
@@ -144,5 +147,6 @@ drive.mount('/content/drive')
 
 -----
 
-Repository Created : 24-06-26
-Status : Incomplete/Updating..
+[Repository Created : 24-06-26
+Status : Incomplete/Updating..](https://img.shields.io/badge/Created-2024--06--26-blue
+https://img.shields.io/badge/Status-WIP--Updating-orange)
